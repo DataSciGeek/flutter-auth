@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529524712666",
+    "firebase_url": "https://fire-auth-180d7.firebaseio.com",
+    "project_id": "fire-auth-180d7",
+    "storage_bucket": "fire-auth-180d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529524712666:android:2e4f6ed50b5a9857d8b1e3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529524712666-bjpgcqtmmmqld01259aqfomfpl3qucf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl1adMxb51etm4frbktiUNj7u7jUS3rDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529524712666-bjpgcqtmmmqld01259aqfomfpl3qucf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
